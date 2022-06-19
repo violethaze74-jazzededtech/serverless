@@ -22,7 +22,7 @@
     "sls": "./bin/serverless.js"
   },
   "dependencies": {
-    "@serverless/cli": "^1.6.0",
+    "@serverless/cli": "^2.0.21",
     "@serverless/components": "^3.18.1",
     "@serverless/dashboard-plugin": "^5.5.3",
     "@serverless/platform-client": "^4.3.0",
