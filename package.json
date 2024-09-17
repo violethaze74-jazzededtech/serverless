@@ -61,7 +61,7 @@
     "memoizee": "^0.4.15",
     "micromatch": "^4.0.4",
     "ncjsm": "^4.2.0",
-    "node-fetch": "^2.6.6",
+    "node-fetch": "^3.2.10",
     "open": "^7.4.2",
     "path2": "^0.1.0",
     "process-utils": "^4.0.0",
